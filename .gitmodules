@@ -1,0 +1,3 @@
+[submodule "nginx-proxy-manager"]
+	path = nginx-proxy-manager
+	url = git@github.com:zeyadmoslem/nginx-proxy-manager.git
